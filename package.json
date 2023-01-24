@@ -10,7 +10,7 @@
     "node-int64": "^0.4.0",
     "shortid": "^2.2.14"
   },
-  "resolutions": { 
+  "overrides": { 
     "@types/babel__traverse": "7.0.6" 
   },
   "types": "src/index.d.ts",
